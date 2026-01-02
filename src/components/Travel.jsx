@@ -5,7 +5,7 @@ import Two from "../assets/two.png"
 import Three from "../assets/three.png"
 import Four from "../assets/four.png"
 import Five from "../assets/five.png"
-import Six from "../assets/Six.png"
+import Six from "../assets/six.png"
 const Travel = () => {
     return (
         <div className='py-25'>
